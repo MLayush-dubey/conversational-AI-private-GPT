@@ -1,4 +1,4 @@
 MONGO_DB_URL="mongodb://localhost:27017/"
-MONGO_DB_NAME="chat_app"
+MONGO_DB_NAME="convo_app"
 OLLAMA_URL="http://localhost:11434"
 OLLAMA_MODELS="gpt-oss:20b-cloud, llama3.2:1b, deepseek-r1:1.5b, phi4-mini-reasoning:latest"
